@@ -1,3 +1,9 @@
+# CineCritique
+
+**CineCritique** is a movie app that fetches data from an API, displays movies, ratings, and overviews using HTML, CSS and JavaScript.
+
+
+
 
 ## 📸 Screenshots
 
