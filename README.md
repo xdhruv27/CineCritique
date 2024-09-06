@@ -2,7 +2,8 @@
 
 **CineCritique** is a movie app that fetches data from an API, displays movies, ratings, and overviews using HTML, CSS and JavaScript.
 
-
+## About
+CineCritique is a web application that provides users with popular movies fetched from The Movie Database (TMDb) API. It displays movie posters, ratings, and brief overviews in an interactive interface. Users can also search for specific movies, and the app dynamically updates the content based on the search results.
 
 
 ## 📸 Screenshots
